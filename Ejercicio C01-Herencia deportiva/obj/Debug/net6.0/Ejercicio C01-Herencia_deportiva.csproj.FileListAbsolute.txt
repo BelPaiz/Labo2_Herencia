@@ -1,0 +1,12 @@
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\Ejercicio C01-Herencia_deportiva.csproj.AssemblyReference.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\Ejercicio C01-Herencia_deportiva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\Ejercicio C01-Herencia_deportiva.AssemblyInfoInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\Ejercicio C01-Herencia_deportiva.AssemblyInfo.cs
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\Ejercicio C01-Herencia_deportiva.csproj.CoreCompileInputs.cache
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\bin\Debug\net6.0\Ejercicio C01-Herencia_deportiva.deps.json
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\bin\Debug\net6.0\Ejercicio C01-Herencia_deportiva.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\bin\Debug\net6.0\Ejercicio C01-Herencia_deportiva.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\Ejercicio C01-Herencia_deportiva.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\refint\Ejercicio C01-Herencia_deportiva.dll
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\Ejercicio C01-Herencia_deportiva.pdb
+D:\Usuarios\belen\Documentos\PROGRA Y LABO 2\Ejercicio C01-Herencia deportiva\obj\Debug\net6.0\ref\Ejercicio C01-Herencia_deportiva.dll
