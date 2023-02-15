@@ -8,6 +8,7 @@ namespace Ejercicio_C01_Estadística_deportiva
 {
     public class DirectorTecnico : Persona
     {
+        //ESTO DEBERIA APARECER
         private DateTime fechaNacimiento;
 
         private DirectorTecnico(string nombre) : base(nombre)

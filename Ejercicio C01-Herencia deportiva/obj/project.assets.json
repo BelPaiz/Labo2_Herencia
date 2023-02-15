@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\belen\\Documentos\\PROGRA Y LABO 2\\Ejercicio C01-Herencia deportiva\\Ejercicio C01-Herencia_deportiva.csproj",
+      "projectUniqueName": "D:\\Escritorio\\Repos clonados\\Labo2_Herencia\\Ejercicio C01-Herencia deportiva\\Ejercicio C01-Herencia_deportiva.csproj",
       "projectName": "Ejercicio C01-Herencia_deportiva",
-      "projectPath": "D:\\Usuarios\\belen\\Documentos\\PROGRA Y LABO 2\\Ejercicio C01-Herencia deportiva\\Ejercicio C01-Herencia_deportiva.csproj",
+      "projectPath": "D:\\Escritorio\\Repos clonados\\Labo2_Herencia\\Ejercicio C01-Herencia deportiva\\Ejercicio C01-Herencia_deportiva.csproj",
       "packagesPath": "C:\\Users\\belen\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\belen\\Documentos\\PROGRA Y LABO 2\\Ejercicio C01-Herencia deportiva\\obj\\",
+      "outputPath": "D:\\Escritorio\\Repos clonados\\Labo2_Herencia\\Ejercicio C01-Herencia deportiva\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\belen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
